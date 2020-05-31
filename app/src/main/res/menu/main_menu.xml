@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/action_search_btn"-->
+<!--&lt;!&ndash;        android:icon="@drawable/ic_search_black_24dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:title="@string/action_search_text"&ndash;&gt;-->
+<!--        app:actionViewClass="android.widget.SearchView"-->
+<!--        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/action_accunt_btn"
+        android:title="Account" />
+    <item
+        android:id="@+id/action_logout_btn"
+        android:title="Logout" />
+</menu>

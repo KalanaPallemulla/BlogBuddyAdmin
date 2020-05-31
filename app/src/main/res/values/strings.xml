@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Blog Buddy</string>
+    <string name="email_hint">Enter Your Email....</string>
+    <string name="login_pass_hint">Password....</string>
+    <string name="login_logo_desc">Login Logo Page</string>
+    <string name="login_btn_text">Login to Your Account</string>
+    <string name="login_reg_btn_text">Need a New Account...?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_account_settings">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create a New Account</string>
+    <string name="reg_ogin_btn_text">Already Have an Account...?</string>
+    <string name="confirm_pass_hint_text">Confrim Password....</string>
+    <string name="setup_about_text">About You....?</string>
+    <string name="setup_name_text">Your Name....</string>
+    <string name="setupp_about_text">About You....</string>
+    <string name="setup_mobile_text">Your Phone Number (Optional)</string>
+    <string name="setup_btn_text">Save Account Settings</string>
+    <string name="new_post_desc">Add Descrition or Your Blog</string>
+    <string name="new_post_add_btn_text">Add Post</string>
+    <string name="new_post_cancel_btn_text">Cancel</string>
+    <string name="botum_home_text">Home</string>
+    <string name="bottom_notification_text">Notification</string>
+    <string name="home_account_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_post_topic_text">Topic (50 letters only)</string>
+
+</resources>
